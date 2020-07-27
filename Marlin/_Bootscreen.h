@@ -16,14 +16,16 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
 #pragma once
 
+#define CONFIG_EXAMPLES_DIR "Tevo/Tarantula Pro"
+
 /**
  * Made with Marlin Bitmap Converter
- * http://marlinfw.org/tools/u8glib/converter.html
+ * https://marlinfw.org/tools/u8glib/converter.html
  *
  * This bitmap from 128x48 C/C++ data
  */
